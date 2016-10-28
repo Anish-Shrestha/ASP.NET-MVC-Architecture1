@@ -1,0 +1,33 @@
+C:\Users\Anish-PC\Desktop\mvcarchitecture-master\Store.Service\bin\Debug\Store.Service.dll
+C:\Users\Anish-PC\Desktop\mvcarchitecture-master\Store.Service\bin\Debug\Store.Service.pdb
+C:\Users\Anish-PC\Desktop\mvcarchitecture-master\Store.Service\bin\Debug\Store.Data.dll
+C:\Users\Anish-PC\Desktop\mvcarchitecture-master\Store.Service\bin\Debug\Store.Model.dll
+C:\Users\Anish-PC\Desktop\mvcarchitecture-master\Store.Service\bin\Debug\EntityFramework.dll
+C:\Users\Anish-PC\Desktop\mvcarchitecture-master\Store.Service\bin\Debug\Store.Data.pdb
+C:\Users\Anish-PC\Desktop\mvcarchitecture-master\Store.Service\bin\Debug\Store.Model.pdb
+C:\Users\Anish-PC\Desktop\mvcarchitecture-master\Store.Service\bin\Debug\EntityFramework.xml
+C:\Users\Anish-PC\Desktop\mvcarchitecture-master\Store.Service\obj\Debug\Store.Service.csprojResolveAssemblyReference.cache
+C:\Users\Anish-PC\Desktop\mvcarchitecture-master\Store.Service\obj\Debug\Store.Service.dll
+C:\Users\Anish-PC\Desktop\mvcarchitecture-master\Store.Service\obj\Debug\Store.Service.pdb
+D:\dotNet\Architecture Design\mvcarchitecture-master\Store.Service\bin\Debug\Store.Service.dll
+D:\dotNet\Architecture Design\mvcarchitecture-master\Store.Service\bin\Debug\Store.Service.pdb
+D:\dotNet\Architecture Design\mvcarchitecture-master\Store.Service\bin\Debug\Store.Data.dll
+D:\dotNet\Architecture Design\mvcarchitecture-master\Store.Service\bin\Debug\Store.Model.dll
+D:\dotNet\Architecture Design\mvcarchitecture-master\Store.Service\bin\Debug\EntityFramework.dll
+D:\dotNet\Architecture Design\mvcarchitecture-master\Store.Service\bin\Debug\Store.Data.pdb
+D:\dotNet\Architecture Design\mvcarchitecture-master\Store.Service\bin\Debug\Store.Model.pdb
+D:\dotNet\Architecture Design\mvcarchitecture-master\Store.Service\bin\Debug\EntityFramework.xml
+D:\dotNet\Architecture Design\mvcarchitecture-master\Store.Service\obj\Debug\Store.Service.csprojResolveAssemblyReference.cache
+D:\dotNet\Architecture Design\mvcarchitecture-master\Store.Service\obj\Debug\Store.Service.dll
+D:\dotNet\Architecture Design\mvcarchitecture-master\Store.Service\obj\Debug\Store.Service.pdb
+D:\Git-Repository\Asp.Net-Project-Architecture-1\mvcarchitecture\Store.Service\bin\Debug\Store.Service.dll
+D:\Git-Repository\Asp.Net-Project-Architecture-1\mvcarchitecture\Store.Service\bin\Debug\Store.Service.pdb
+D:\Git-Repository\Asp.Net-Project-Architecture-1\mvcarchitecture\Store.Service\bin\Debug\Store.Data.dll
+D:\Git-Repository\Asp.Net-Project-Architecture-1\mvcarchitecture\Store.Service\bin\Debug\Store.Model.dll
+D:\Git-Repository\Asp.Net-Project-Architecture-1\mvcarchitecture\Store.Service\bin\Debug\EntityFramework.dll
+D:\Git-Repository\Asp.Net-Project-Architecture-1\mvcarchitecture\Store.Service\bin\Debug\Store.Data.pdb
+D:\Git-Repository\Asp.Net-Project-Architecture-1\mvcarchitecture\Store.Service\bin\Debug\Store.Model.pdb
+D:\Git-Repository\Asp.Net-Project-Architecture-1\mvcarchitecture\Store.Service\bin\Debug\EntityFramework.xml
+D:\Git-Repository\Asp.Net-Project-Architecture-1\mvcarchitecture\Store.Service\obj\Debug\Store.Service.csprojResolveAssemblyReference.cache
+D:\Git-Repository\Asp.Net-Project-Architecture-1\mvcarchitecture\Store.Service\obj\Debug\Store.Service.dll
+D:\Git-Repository\Asp.Net-Project-Architecture-1\mvcarchitecture\Store.Service\obj\Debug\Store.Service.pdb
